@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BankSim.Api/BankSim.Api.csproj" />
+    <Project Path="src/BankSim.Application/BankSim.Application.csproj" />
+    <Project Path="src/BankSim.Domain/BankSim.Domain.csproj" />
+    <Project Path="src/BankSim.Infrastructure/BankSim.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BankSim.Domain.Tests/BankSim.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
